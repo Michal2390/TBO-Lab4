@@ -1,0 +1,2 @@
+./run_all_security_tests.sh: line 62: docker: command not found
+./run_all_security_tests.sh: line 74: docker: command not found
